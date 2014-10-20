@@ -16,6 +16,7 @@
 	
 	<cffunction name="onSessionStart">
 	 
+	 
 	</cffunction>
 	
 	<cffunction name="onRequestStart">
